@@ -44,7 +44,7 @@ Other exercises work with concepts such as loops, arithmetic calculations, and f
 
 > The individual exercise files are intentionally small and independent, making it easy to inspect and run them separately.
 
-## 🛠️ Concepts Practiced
+## Concepts Practiced
 
 The exercises provide practice with core JavaScript concepts including:
 
@@ -139,7 +139,7 @@ Frontend-CW_Javascript/
 
 The repository currently contains the 15 JavaScript exercise files and a README. GitHub lists the repository as public and shows two commits.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
