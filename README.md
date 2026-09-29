@@ -4,7 +4,7 @@ A collection of **JavaScript programming exercises** covering fundamental progra
 
 This repository was created as coursework and practice for building a stronger foundation in **JavaScript programming and problem-solving**.
 
-## 📚 Overview
+## Overview
 
 The repository contains **15 numbered JavaScript exercises**, organized as individual `.js` files:
 
@@ -22,7 +22,7 @@ For example, `1.js` implements a simple **Greeting Machine** that accepts a numb
 
 Other exercises work with concepts such as loops, arithmetic calculations, and functions. For example, `10.js` calculates and prints the square of each number from `1` through a supplied value, while `15.js` generates a multiplication table.
 
-## 🧩 Exercises
+## Exercises
 
 | File    | Focus                                                 |
 | ------- | ----------------------------------------------------- |
@@ -113,7 +113,7 @@ console.log(timesTable(7));
 
 This provides practice with iteration, multiplication, template literals, and formatted console output.
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Frontend-CW_Javascript/
@@ -180,7 +180,7 @@ node 15.js
 
 The results are printed directly to the terminal using `console.log()`.
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 This coursework focuses on developing the ability to:
 
@@ -193,7 +193,7 @@ This coursework focuses on developing the ability to:
 7. Break simple problems into executable steps.
 8. Run JavaScript programs from the command line.
 
-## 💡 Why This Repository Matters
+## Why This Repository Matters
 
 Although the exercises are small, they establish programming concepts that are used in larger JavaScript applications.
 
@@ -208,7 +208,7 @@ Understanding functions, loops, variables, calculations, and control flow provid
 * Asynchronous JavaScript
 * Testing
 
-## 🔮 Possible Extensions
+## Possible Extensions
 
 Potential improvements to this coursework could include:
 
@@ -224,14 +224,10 @@ Potential improvements to this coursework could include:
 
 These are potential extensions and are **not currently represented as implemented features in the repository**.
 
-## 👤 Author
+## Author
 
 **Andy Laique**
 
 Software Engineer | AI/ML | Data & Backend
 
 GitHub: https://github.com/andylaique
-
-## 📄 License
-
-No explicit license is currently documented in the repository.
